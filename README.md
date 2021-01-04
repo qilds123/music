@@ -6,6 +6,4 @@ It's targeted towards websites that need an easy to install player, that can be 
 The goal is to use as less code as possible and utilize the modern HTML5 technologies to bring the wanted result.
 The final version will be accompanied by an administrator panel for customizing design and the playlist.
 
-All included music by TeknoAxe.
 
-TeknoAxe: teknoaxe.com
